@@ -1,0 +1,79 @@
+​
+.cont1{
+    /* Rectangle */
+
+
+
+width: 320px;
+height: 497px;
+left: 560px;
+top: 152px;
+
+/* White */
+
+background: #FFFFFF;
+box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
+border-radius: 20px;
+}
+
+.img{
+    
+
+    
+    margin-left: 14px;
+    
+width: 288px;
+height: 288px;
+left: 576px;
+top: 168px;
+
+background: #2C7DFA;
+border-radius: 10px;
+
+}
+
+.text1{
+    
+font-family: Outfit;
+font-size: 22px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: center;
+
+}
+.text2{
+ 
+
+height: 57px;
+left: 5.56%;
+right: 5.56%;
+top: calc(50% - 57px/2 + 36px);
+
+/* Body */
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 0.1875px;
+
+/* Grey */
+
+color: #7D889E;
+
+}
+.cont2{
+    margin-left: 14px;
+    
+    width: 288px;
+    height: 288px;
+    left: 576px;
+    top: 168px;
+
+    background: #FFFFFF;
+box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
+border-radius: 20px;
+}
